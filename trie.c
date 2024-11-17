@@ -8,7 +8,7 @@
 // Since we have 26 english letters, we need
 // 26 children per node (for general purpose alphabet)
 
-// TODO if we have id like S01, S02 then we can have 2 (S,0) + 10 (0,1,2..9) characters
+//if we have id like S01, S02 then we can have 2 (S,0) + 10 (0,1,2..9) characters
 #define N 12
 
 typedef struct TrieNode TrieNode;

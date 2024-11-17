@@ -1,4 +1,4 @@
-#!/home/omer/C/venv/bin/python
+#!/home/omer/C/trie/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
